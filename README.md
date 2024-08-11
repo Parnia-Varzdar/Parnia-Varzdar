@@ -31,4 +31,4 @@ linkedin: www.linkedin.com/in/parnia-varzdar
 </div>
 
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parnia-Varzdar&" alt="ali-bouali" /></p>
+<p align="center" style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parnia-Varzdar&" alt="ali-bouali" /></p>
