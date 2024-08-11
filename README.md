@@ -20,6 +20,7 @@ email: parniavarzdar@gmail.com
 
 linkedin: www.linkedin.com/in/parnia-varzdar
 
+
 <div align="center">
 <a href="https://github.com/ali-bouali">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnia-Varzdar&theme=2077" height="180em" />
