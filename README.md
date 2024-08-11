@@ -14,14 +14,19 @@ Accomplished Back End Java Developer with over 3 years of experience in designin
 
 **Database**:  SQL (MySQL, PostgresSQL), MongoDB, Oracle,
 
-## GitHub Stats &#x1f4c8;
-
-[![Parnia's github stats](https://github-readme-stats.vercel.app/api?username=Parnia-Varzdar&show_icons=true&line_height=21&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parnia-Varzdar&show_icons=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contact Info
 
 email: parniavarzdar@gmail.com
 
 linkedin: www.linkedin.com/in/parnia-varzdar
+
+<div align="center">
+<a href="https://github.com/ali-bouali">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnia-Varzdar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parnia-Varzdar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnia-Varzdar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parnia-Varzdar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parnia-Varzdar&theme=2077" height="180em" />
+</div>
+
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parnia-Varzdar&" alt="ali-bouali" /></p>
