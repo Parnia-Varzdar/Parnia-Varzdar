@@ -29,4 +29,5 @@ linkedin: www.linkedin.com/in/parnia-varzdar
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parnia-Varzdar&theme=2077" height="180em" />
 </div>
 
+
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parnia-Varzdar&" alt="ali-bouali" /></p>
