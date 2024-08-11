@@ -24,4 +24,4 @@ Accomplished Back End Java Developer with over 3 years of experience in designin
 
 email: parniavarzdar@gmail.com
 
-linkedin: https://linkedin.com/in/parniavarzdar
+linkedin: www.linkedin.com/in/parnia-varzdar
