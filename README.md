@@ -22,7 +22,7 @@ linkedin: www.linkedin.com/in/parnia-varzdar
 
 
 <div align="center">
-<a href="https://github.com/ali-bouali">
+<a href="https://github.com/Parnia-Varzdar">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnia-Varzdar&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parnia-Varzdar&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnia-Varzdar&theme=2077" height="180em" />
@@ -31,4 +31,4 @@ linkedin: www.linkedin.com/in/parnia-varzdar
 </div>
 
 
-<p align="center" style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parnia-Varzdar&" alt="ali-bouali" /></p>
+<p align="center" style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parnia-Varzdar&" alt="Parnia-Varzdar" /></p>
