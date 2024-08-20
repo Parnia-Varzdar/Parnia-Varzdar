@@ -6,7 +6,7 @@ Accomplished Back End Java Developer with over 2 years of experience in designin
 
 ## Technical Skills
 
-**Languages**: Java, Python, GO	
+**Languages**: Java, Python
 
 **Backend**: Spring (Spring Boot, Spring Cloud, Spring Security, Spring Data Jpa), Hibernate, Redis, Apache Kafka, RabbitMQ, REST APIs (GraphQL), JUnit
 
