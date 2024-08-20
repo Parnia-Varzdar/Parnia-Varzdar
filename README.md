@@ -2,7 +2,7 @@
 
 ## About Me 👋
 
-Accomplished Back End Java Developer with over 3 years of experience in designing, developing, and optimizing large-scale distributed systems. Proficient in Java, Spring and cloud technologies. Known for delivering high-quality code on time. Dedicated to teamwork, detail-oriented, and highly organized.
+Accomplished Back End Java Developer with over 2 years of experience in designing, developing, and optimizing large-scale distributed systems. Proficient in Java, Spring and cloud technologies. Known for delivering high-quality code on time. Dedicated to teamwork, detail-oriented, and highly organized.
 
 ## Technical Skills
 
